@@ -35,6 +35,7 @@ Deliver a full-stack, deployable AI web application
 🗂️ Dataset
 
 Source: Kaggle – Mental Health Sentiment Dataset
+https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health
 
 Dataset Features:
 
