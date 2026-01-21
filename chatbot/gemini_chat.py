@@ -1,7 +1,7 @@
 from google import genai
 from google.genai.errors import ClientError
 
-client = genai.Client(api_key="AIzaSyA9yz7OLoSgt99r1Wj7T_4ynKRw2WYPtWI")
+client = genai.Client(api_key="Your API KEY")
 
 def generate_response(command, mood=None):
     try:
@@ -38,3 +38,4 @@ def generate_response(command, mood=None):
             mood,
             "Thank you for sharing. Take a moment to breathe and be kind to yourself."
         )
+
